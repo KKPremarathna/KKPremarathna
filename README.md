@@ -48,25 +48,73 @@
 </div>
 ---
 ## 🚀 Highlighted Projects
-### 🧠 Artificial Intelligence & Machine Learning
-*   [**Agentic AI Blood Report Analyzer**](https://github.com/KKPremarathna/BloodReport_Analysis) <br/>
-    Applied task decomposition and sequential LLM chaining with structured JSON outputs. This Python-based setup extracts biomarker information and outputs personalized wellness suggestions.
-*   [**Custom AI PDF Reader**](https://github.com/KKPremarathna/custom-ai-pdf-reader) <br/>
-    Built a Desktop PDF reader leveraging **PySide6** and **PyMuPDF**, seamlessly integrated with local **Ollama** models for offline textual AI summarization and smart document querying.
-*   **Air Pollution Forecasting in South Asia** <br/>
-    An ongoing research endeavor investigating ML/DL reliability. Evaluating the forecast fidelity of models spanning **LSTM, GRU, Random Forest, and XGBoost** using comprehensive preprocessing in Pandas/NumPy.
-### 💼 Enterprise & Full-Stack Web Development
-*   [**ApparelFlow ERP**](https://github.com/KKPremarathna/apparelflow-erp) <br/>
-    A scalable JavaScript robust monorepo built for the apparel industry, managing intricate domains like production batch verifications and sewing queue gateways.
-*   [**Fylox Platform**](https://github.com/KKPremarathna/Fylox) <br/>
-    Developed a professional customer support application with comprehensive Python architectures, utilizing custom light/dark modes and prioritizing an impactful UI/UX aesthetic.
-*   [**Student Result Summarization System**](https://github.com/KKPremarathna/student-result-summarization-system) <br/>
-    A fully integrated **MERN stack** academic platform. Architected to easily manage student logs, reliably calculate GPAs, process results dynamically, and host detailed summary reports. Deployed to Vercel.
-### 📱 Mobile Applications & Real-Time Communication
-*   [**Money Manager**](https://github.com/KKPremarathna/MONEY_MANAGER) <br/>
-    Cross-platform personal personal-finance manager designed iteratively mapped over **React Native** and **Expo**. Architected on top of **Supabase** integrated securely with **Drizzle ORM** for persistent local/cloud data sync.
-*   [**WebRTC Video Chat App**](https://github.com/KKPremarathna/WEBRTC_video_chat_app) <br/>
-    Tackled sophisticated event signaling via WebSockets and WebRTC to accomplish real-time, peer-to-peer browser video communications and room management.
+<table border="1" bordercolor="#30363d" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 AI & Machine Learning</h3>
+      
+      <b><a href="https://github.com/KKPremarathna/BloodReport_Analysis">Agentic AI Blood Report Analyzer</a></b> <br/>
+      An experimental tool utilizing task decomposition and sequential LLM chaining with structured JSON outputs to extract biomarker info and recommend personalized diets. <br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LLMs-8A2BE2?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Agentic_AI-000000?style=flat-square" />
+      <br/><br/>
+      
+      <b><a href="https://github.com/KKPremarathna/custom-ai-pdf-reader">Custom AI PDF Reader</a></b> <br/>
+      Desktop PDF reader leveraging PySide6 and PyMuPDF, integrated closely with local Ollama models for offline textual AI summarization and dynamic smart queries. <br/>
+      <img src="https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <br/><br/>
+      
+      <b>Air Pollution Forecasting in South Asia</b> <br/>
+      An ongoing research endeavor investigating ML/DL forecast reliability (LSTM, GRU, RF, XGBoost) using robust data preprocessing techniques. <br/>
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <br/>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Enterprise & Full-Stack</h3>
+      
+      <b><a href="https://github.com/KKPremarathna/apparelflow-erp">ApparelFlow ERP</a></b> <br/>
+      Scalable monorepo constructed for the apparel industry. Seamlessly manages intricate domains including production batch verifications and sewing queue routing gates.<br/>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Monorepo-333333?style=flat-square" />
+      <br/><br/>
+      
+      <b><a href="https://github.com/KKPremarathna/Fylox">Fylox Platform</a></b> <br/>
+      A comprehensive customer support architecture implementing robust Python backend setups paired with a custom dark/light mode frontend aesthetic. <br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-UI/UX-FF4B4B?style=flat-square" />
+      <br/><br/>
+      <b><a href="https://github.com/KKPremarathna/student-result-summarization-system">Student Result System</a></b> <br/>
+      Fully integrated MERN stack academic platform. Architected to effortlessly manage student logs, reliably calculate GPAs, and host detailed summary reports. <br/>
+      <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Express-404D59?style=flat-square" />
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Mobile Applications</h3>
+      
+      <b><a href="https://github.com/KKPremarathna/MONEY_MANAGER">💸 Money Manager App</a></b> <br/>
+      Cross-platform personal-finance manager designed iteratively mapped over React Native and Expo. Backed by Supabase and Drizzle ORM for local/cloud database syncing. <br/>
+      <img src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <br/>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 Real-Time Comm.</h3>
+      
+      <b><a href="https://github.com/KKPremarathna/WEBRTC_video_chat_app">🎥 WebRTC Video Chat Platform</a></b> <br/>
+      Tackled sophisticated event signaling via WebSockets and WebRTC to accomplish real-time, peer-to-peer browser video communications and room states. <br/>
+      <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+      <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square" />
+      <br/>
+    </td>
+  </tr>
+</table>
 ---
 ## 📊 GitHub Overview
 <div align="center">
